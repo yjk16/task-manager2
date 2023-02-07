@@ -1,0 +1,36 @@
+
+For admin:
+Total number of users recorded:					6
+Total number of tasks recorded:					5
+Total number of tasks assigned:					2
+Percentage of total number of tasks assigned:	40.0%
+Percentage of completed tasks assigned:			0.0%
+Percentage of tasks still to be completed:		100.0%
+Percentage of overdue tasks:					50.0%
+
+For newbie:
+Total number of users recorded:					6
+Total number of tasks recorded:					5
+Total number of tasks assigned:					1
+Percentage of total number of tasks assigned:	20.0%
+Percentage of completed tasks assigned:			0.0%
+Percentage of tasks still to be completed:		100.0%
+Percentage of overdue tasks:					0.0%
+
+For nick:
+Total number of users recorded:					6
+Total number of tasks recorded:					5
+Total number of tasks assigned:					1
+Percentage of total number of tasks assigned:	20.0%
+Percentage of completed tasks assigned:			0.0%
+Percentage of tasks still to be completed:		100.0%
+Percentage of overdue tasks:					0.0%
+
+For fun:
+Total number of users recorded:					6
+Total number of tasks recorded:					5
+Total number of tasks assigned:					1
+Percentage of total number of tasks assigned:	20.0%
+Percentage of completed tasks assigned:			0.0%
+Percentage of tasks still to be completed:		100.0%
+Percentage of overdue tasks:					0.0%

@@ -1,0 +1,6 @@
+admin, adm1n
+newbie, newb
+another, an
+nick, nick
+next, next
+fun, fun
